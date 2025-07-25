@@ -22,7 +22,7 @@ src/
 ### Instalación
 ```bash
 # Clonar repositorio
-git clone <repo-url>
+git clone https://github.com/oscacaac1986/front_clon_meli.git
 cd meli-clone-front
 
 # Instalar dependencias
